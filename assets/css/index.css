@@ -1,0 +1,8 @@
+* {
+    font-family: 'DM Sans', sans-serif;
+}
+
+::selection {
+    background: #e8b730;
+    color: white;
+}
